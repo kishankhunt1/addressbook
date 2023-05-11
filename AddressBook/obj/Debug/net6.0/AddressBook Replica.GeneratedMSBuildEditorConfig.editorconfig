@@ -1,0 +1,100 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AddressBook_Replica
+build_property.RootNamespace = AddressBook_Replica
+build_property.ProjectDir = F:\Single-Multi Combo by CHJ\Single-Multi Combo by CHJ\AddressBook\AddressBook\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Single-Multi Combo by CHJ\Single-Multi Combo by CHJ\AddressBook\AddressBook
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Areas/CON_ContactCategory/Views/Home/CON_ContactCategoryAddEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ09OX0NvbnRhY3RDYXRlZ29yeVxWaWV3c1xIb21lXENPTl9Db250YWN0Q2F0ZWdvcnlBZGRFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Areas/CON_ContactCategory/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ09OX0NvbnRhY3RDYXRlZ29yeVxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Areas/CON_ContactCategory/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ09OX0NvbnRhY3RDYXRlZ29yeVxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Areas/CON_Contact/Views/Home/CON_ContactAddEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ09OX0NvbnRhY3RcVmlld3NcSG9tZVxDT05fQ29udGFjdEFkZEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Areas/CON_Contact/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ09OX0NvbnRhY3RcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Areas/CON_Contact/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ09OX0NvbnRhY3RcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Areas/LOC_City/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NpdHlcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Areas/LOC_City/Views/Home/LOC_CityAddEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NpdHlcVmlld3NcSG9tZVxMT0NfQ2l0eUFkZEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Areas/LOC_City/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NpdHlcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Areas/LOC_Country/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NvdW50cnlcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Areas/LOC_Country/Views/Home/LOC_CountryAddEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NvdW50cnlcVmlld3NcSG9tZVxMT0NfQ291bnRyeUFkZEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Areas/LOC_Country/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX0NvdW50cnlcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Areas/LOC_State/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Areas/LOC_State/Views/Home/LOC_StateAddEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXFZpZXdzXEhvbWVcTE9DX1N0YXRlQWRkRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Areas/LOC_State/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTE9DX1N0YXRlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Single-Multi Combo by CHJ/Single-Multi Combo by CHJ/AddressBook/AddressBook/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qqet5c4er8

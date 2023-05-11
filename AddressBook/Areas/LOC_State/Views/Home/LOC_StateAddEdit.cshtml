@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "State Add/Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model AddressBook_Replica.Areas.LOC_State.Models.LOC_StateModel;
+
+<div class="row">
+    <div class="col-md-12">
+        <h2>@TempData["LOC_State_Insert_Msg"]</h2>
+
+        <div class="container">
+            <h2>State</h2>
+            <hr />
+            <form method="post" asp-area="LOC_State" asp-controller="Home">
+
+                @Html.HiddenFor(x => x.StateID)
+
+                <div class="form-group mb-7">
+                    <label><span class="text-danger">*</span>Country</label>
+                    <select class="form-select" data-control="select2" data-placeholder="Select Country" data-allow-clear="true" asp-for="CountryID" asp-items="@(new SelectList(ViewBag.CountryList, "CountryID", "CountryName"))">
+                        <option value=""></option>
+                    </select>
+                    <span asp-validation-for="CountryID" class="text-danger"></span>
+                </div>
+
+                <div class="form-floating mb-7">
+                    <input type="text" class="form-control" id="floatingInput" asp-for="StateName" placeholder="Gujarat" />
+                    <label for="floatingInput"><span class="text-danger">*</span>State</label>
+                    <span asp-validation-for="StateName" class="text-danger"></span>
+                </div>
+
+                <div class="row">
+                    <div class="col-2">
+                        <button type="submit" class="btn btn-light-success" asp-action="Save">Save</button>
+                    </div>
+                    <div class="col-2">
+                        <a class="btn btn-light-danger" asp-action="Index">Cancel</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+</div>
+
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
